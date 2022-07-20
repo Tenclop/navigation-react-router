@@ -23,8 +23,3 @@ function App() {
 }
 
 export default App;
-
-// react router
-// Route, Routes, Link and NavLink
-// route parameters
-// show different data based on url
